@@ -1538,7 +1538,7 @@ a.logo:hover{
     position: relative;
 }
 .inner-nav ul li a{
-    color: #777;
+    color: #000;
     letter-spacing: 2px;
     display: inline-block;
     -moz-box-sizing: border-box;
