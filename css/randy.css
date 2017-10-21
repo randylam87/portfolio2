@@ -14,3 +14,7 @@
 .projects-row {
   margin-bottom: 30px;
 }
+
+.no-padding {
+  padding: 0px;
+}
