@@ -1,12 +1,12 @@
 /**
  * tiltfx.js
- * http://www.codrops.com
+ * https://www.codrops.com
  *
  * Licensed under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
+ * https://www.opensource.org/licenses/mit-license.php
  * 
  * Copyright 2015, Codrops
- * http://www.codrops.com
+ * https://www.codrops.com
  */
 ;(function(window) {
 	
@@ -62,7 +62,7 @@
 		return a;
 	}
 
-	// from http://www.quirksmode.org/js/events_properties.html#position
+	// from https://www.quirksmode.org/js/events_properties.html#position
 	function getMousePos(e) {
 		var posx = 0;
 		var posy = 0;
@@ -83,7 +83,7 @@
 		}
 	}
 
-	// from http://www.sberry.me/articles/javascript-event-throttling-debouncing
+	// from https://www.sberry.me/articles/javascript-event-throttling-debouncing
 	function throttle(fn, delay) {
 		var allowSample = true;
 
